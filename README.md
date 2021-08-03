@@ -144,7 +144,7 @@ Para que esse teste passe, deve ser possível incrementar a quantidade de likes 
 Para que esse teste passe, você deve validar que um repositório existe antes de incrementar a quantidade de likes. Caso não exista, retorne um status `404` com uma mensagem de erro no formato `{ error: "Mensagem do erro" }`.
 
 ## 📝 Licença<br>
-Esse projeto está sob a licença MIT.
+Esse projeto está sob a licença MIT. veja o aqruivo [LICENSE](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) para mais detalhes.
 
 
 
