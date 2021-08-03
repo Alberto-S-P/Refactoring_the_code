@@ -3,7 +3,7 @@
 
 <div align="center"> 
 
-#### Técnologias utilizadas<br>
+#### Tecnologias utilizadas<br>
 
 <img align="center" alt="Javascript" height="30" width="40"  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
 <img align="center" alt="express" height="30" width="40"  src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
