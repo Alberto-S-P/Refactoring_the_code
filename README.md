@@ -64,7 +64,7 @@ Execute o projeto
 yarn dev
 ```
 
-Template da aplicação
+## Template da aplicação<br>
 Foi utilizado um modelo de template.
 
 e pode ser encontrado na seguinte url: [Acessar](https://github.com/rocketseat-education/ignite-template-corrigindo-o-codigo)
